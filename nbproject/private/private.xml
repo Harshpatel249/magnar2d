@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Highscore.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Texture.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Input.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Dbcon.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Window.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/objectID.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Trap.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/State.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Music.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Game.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Block.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Cutscene.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Menu.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/checkpoint.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Player.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Lifeup.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Handler.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/BufferedImageLoader.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Camera.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Levelend.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Animations.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/DeathBoundary.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Lava.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/GameObject.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Cloud.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/Lifeup2.java</file>
+            <file>file:/G:/AU/Sem2/csc102(java)/2dgame/Game/src/game/SpriteSheet.java</file>
+        </group>
+    </open-files>
+</project-private>
