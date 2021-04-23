@@ -13,3 +13,5 @@ Magnar -2D is a 2d platformer game based on java and sql. It uses basic image pr
 * Back-end (SQL):
 1. The backend is set up just as a means to store the scores of the players, you can skip this if you just want to run the game.(remove any code related to backend that is error prone)
 
+# Basic screenshots:
+![Image](sc1)
